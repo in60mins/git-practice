@@ -1,2 +1,4 @@
 Hi Git
 How are you
+git is fine
+where are you going
